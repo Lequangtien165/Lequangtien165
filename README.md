@@ -39,10 +39,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wngtn&layout=compact&theme=tokyonight&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wngtn&theme=tokyonight" />
 </div>
 
