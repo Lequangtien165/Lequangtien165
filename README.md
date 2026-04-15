@@ -1,9 +1,9 @@
-<!-- Banner / Tiêu đề chính -->
+<!-- Animated typing banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Wngtn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Wngtn;Network+%26+Communication+Engineer;Cloud+%26+DevOps+enthusiast;Low-level+networking+explorer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">⚡ Một người đam mê kết nối mạng & Khoa học máy tính ⚡</h3>
+<h3 align="center">⚡ Passionate about what happens below the network stack ⚡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wngtn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,25 +14,27 @@
 
 ---
 
-### 👨‍💻 Về tôi
+### 👨‍💻 About me
 
-- 🔭 Tôi đang tìm hiểu sâu về **Lập trình mạng** & **Khoa học dữ liệu**.
-- 🌱 Hiện tại học: **Kiến trúc mạng**, **Cơ sở dữ liệu**, **Xử lý tín hiệu số**.
-- 💬 Hỏi tôi về: **Socket programming**, **Firebase**, **.NET**, **Windows Forms**.
-- 📫 Liên hệ: **kweble16@icloud.com** (phản hồi trong 24h).
-- ⚡ Sự thật thú vị: Tôi từng làm game multiplayer bằng C# thuần 🎮.
+- 🎓 Majoring in **Computer Networks & Communications**.
+- ☁️ Deeply interested in **Cloud Computing** & **DevOps** (CI/CD, containers, orchestration).
+- 🔍 Love digging into **low‑level networking**: packet analysis, routing protocols, socket internals.
+- 🛠️ Currently exploring: **Linux networking**, **eBPF**, **Kubernetes**, **Terraform**.
+- 📫 Reach me at: **kweble16@icloud.com**.
+- 💬 Ask me about: **TCP/IP**, **socket programming**, **network automation**, **C#**, **.NET**.
+- ⚡ Fun fact: I built a multiplayer tank battle game using raw sockets in C#.
 
 ---
 
-### 🛠️ Ngôn ngữ & Công cụ
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,firebase,git,github,vscode,visualstudio,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,linux,docker,kubernetes,terraform,aws,git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-### 📊 Thống kê GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wngtn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -45,7 +47,7 @@
 
 ---
 
-### 🌐 Kết nối với tôi
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://github.com/Wngtn" target="_blank">
@@ -63,5 +65,5 @@
 </p>
 
 <p align="center">
-  <i>"Kết nối không chỉ là dây dẫn – mà là sự hiểu biết giữa các hệ thống."</i>
+  <i>"The network is the computer — and I want to know every wire, every packet, every bit."</i>
 </p>
