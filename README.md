@@ -19,8 +19,8 @@
 - 🎓 Majoring in **Computer Networks & Communications**.
 - ☁️ Deeply interested in **Cloud Computing** & **DevOps** (CI/CD, containers, orchestration).
 - 🔍 Love digging into **low‑level networking**: packet analysis, routing protocols, socket internals.
-- 🛠️ Currently exploring: **Linux networking**, **eBPF**, **Kubernetes**, **Terraform**.
-- 📫 Reach me at: **kweble16@icloud.com**.
+- 🛠️ Currently exploring: **Linux networking**, **Kubernetes**, **Terraform**, **AWS**.
+- 📫 Reach me at: **qtienle16@gmail.com**.
 - 💬 Ask me about: **TCP/IP**, **socket programming**, **network automation**, **C#**, **.NET**.
 - ⚡ Fun fact: I built a multiplayer tank battle game using raw sockets in C#.
 
