@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wngtn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="mailto:kweble16@icloud.com">
-    <img src="https://img.shields.io/badge/Email-kweble16%40icloud.com-005FF9?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:qtienle16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-qtienle16%40gmail.com-005FF9?style=flat-square&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
