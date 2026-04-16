@@ -1,7 +1,6 @@
 <!-- Animated typing banner -->
-<!-- Animated typing banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Wngtn;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+advocate;K8s+%7C+Terraform+%7C+AWS+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Wngtn;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+advocate;K8s+%7C+Terraform+%7C+AWS+enthusiast" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">⚡ Automating infrastructure, one line of code at a time ⚡</h3>
