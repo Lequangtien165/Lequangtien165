@@ -55,9 +55,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <i>"If it hurts, do it more often — and automate it."</i>
+  <i style="color: #8b949e;">"If it hurts, do it more often — and automate it."</i>
+  <br>
+  <span style="color: #6e7681;">— Jez Humble</span>
 </p>
-
