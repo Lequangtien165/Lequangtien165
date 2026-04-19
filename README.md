@@ -8,9 +8,9 @@
 ---
 
 ### 🛠️ DevOps & Cloud Toolchain (Top 10)
-
+ 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,java,bash,linux,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,maven,java,prometheus,grafana" />
 </p>
 
 ---
