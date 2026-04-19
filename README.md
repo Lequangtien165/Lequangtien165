@@ -1,36 +1,16 @@
 <!-- Animated typing banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Wngtn;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+advocate;K8s+%7C+Terraform+%7C+AWS+enthusiast" alt="Typing SVG" />
-</h1>
+# Hi 👋, I'm Wngtn
 
-<h3 align="center">⚡ Automating infrastructure, one line of code at a time ⚡</h3>
+**Cloud & DevOps Engineer** — automating infrastructure, one line of code at a time.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wngtn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="mailto:qtienle16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-qtienle16%40gmail.com-005FF9?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 About me
-
-- ☁️ Passionate about **Cloud Computing** (AWS, GCP) & **DevOps culture**.
-- 🛠️ Infrastructure as Code enthusiast: **Terraform**, **CloudFormation**, **Ansible**.
-- 🐳 Containerization & orchestration: **Docker**, **Kubernetes** (Helm, Kustomize).
-- 🔁 Building CI/CD pipelines with **GitHub Actions**, **GitLab CI**, **Jenkins**.
-- 🔍 Still love peeking under the hood: **Linux networking**, **eBPF**, **TCP/IP internals**.
-- 🎓 Majoring in **Computer Networks & Communications** — but my heart belongs to automation.
-- 📫 Reach me: **qtienle16@gmail.com**.
-- 💬 Ask me about: **Kubernetes**, **Terraform**, **AWS VPC**, **GitOps**, **Bash/Python scripting**.
+📫 **qtienle16@gmail.com** · [GitHub](https://github.com/Wngtn)
 
 ---
 
 ### 🛠️ DevOps & Cloud Toolchain (Top 10)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,python" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,java,bash,linux,grafana,prometheus" />
 </p>
 
 ---
@@ -42,6 +22,8 @@
 </div>
 
 ---
+
+> *"If it hurts, do it more often — and automate it."* — Jez Humble
 
 ### 🌐 Connect with me
 
