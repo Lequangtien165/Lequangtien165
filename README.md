@@ -1,5 +1,5 @@
 <!-- Animated typing banner -->
-# Hi 👋, I'm Wngtn
+# Hi, I'm Wngtn
 
 **Cloud & DevOps Engineer** — automating infrastructure, one line of code at a time.
 
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ DevOps & Cloud Toolchain (Top 10)
+###  My Toolchain
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,maven,java,prometheus,grafana" />
@@ -34,11 +34,4 @@
   <a href="mailto:qtienle16@gmail.com">
     <img src="https://img.shields.io/badge/Email-qtienle16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-<p align="center">
-  <i style="color: #8b949e;">"If it hurts, do it more often — and automate it."</i>
-  <br>
-  <span style="color: #6e7681;">— Jez Humble</span>
 </p>
