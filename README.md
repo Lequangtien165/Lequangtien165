@@ -1,7 +1,7 @@
 <!-- Animated typing banner -->
 # Hi, I'm Wngtn
 
-**Cloud & DevOps Engineer** — automating infrastructure, one line of code at a time.
+**Cloud & DevOps Enthusiast** — automating infrastructure, one line of code at a time.
 
 📫 **qtienle16@gmail.com** · [GitHub](https://github.com/Wngtn)
 
