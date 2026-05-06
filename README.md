@@ -18,7 +18,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lequangtien165&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Lequangtien165&theme=tokyonight&hide_border=true&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" />
 </p>
 
 ---
