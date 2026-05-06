@@ -10,17 +10,16 @@
 ###  My Toolchain
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,maven,java,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,java,prometheus,grafana" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lequangtien165&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lequangtien165&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
