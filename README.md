@@ -6,8 +6,7 @@ Cloud & DevOps Enthusiastist · Automating infrastructure, one commit at a time.
 
 ### About
 
-Final-year student at **UIT HCM**, studying Computer Networks & Communications. Building a **Cloud-Based AI Agent System** for network incident detection as my capstone project. Interested in IaC, monitoring, and anything that makes infrastructure more observable.
-
+Junior at *VNUHCM-UIT* (Computer Networks & Communications) | Building a Cloud-Based AI Agent System for network incident detection & alerting — AWS · Terraform · Prometheus · FastAPI | Into IaC, monitoring, and making infra actually talk back
 ---
 
 ### Stack
