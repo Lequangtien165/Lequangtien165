@@ -33,7 +33,8 @@ Using `Python` `FastAPI` `Celery` `AWS` `Terraform` `Ansible` `Prometheus` `Gemi
 
 **[BookVN](https://github.com/Lequangtien165)**
 Android reading app with Firebase Auth & social features.
-`Java` `Android` `Firebase`
+
+Using `Java` `Android` `Firebase`
 
 ---
 
