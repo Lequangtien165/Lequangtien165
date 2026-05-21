@@ -1,6 +1,6 @@
 # Hi, I'm Wngtn
 
-Cloud & DevOps · Automating infrastructure, one commit at a time.
+Cloud & DevOps Enthusiastist · Automating infrastructure, one commit at a time.
 
 ---
 
