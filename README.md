@@ -27,8 +27,9 @@ Final-year student at **UIT HCM**, studying Computer Networks & Communications. 
 ### Pinned projects
 
 **[Cloud-Based AI Agent System](https://github.com/Benjaminnhnn/Cloud-Based-AI-Agent-System-for-Network-Incident-Detection-Alerting)**
-Network incident detection & alerting on AWS — Capstone project.
-`Python` `FastAPI` `Celery` `AWS` `Terraform` `Ansible` `Prometheus` `Gemini`
+Network incident detection & alerting on AWS — Capstone project. 
+
+Using `Python` `FastAPI` `Celery` `AWS` `Terraform` `Ansible` `Prometheus` `Gemini`
 
 **[BookVN](https://github.com/Lequangtien165)**
 Android reading app with Firebase Auth & social features.
