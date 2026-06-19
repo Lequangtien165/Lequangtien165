@@ -1,10 +1,6 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:7B42BC,100:E6522C&height=200&section=header&text=Hi%2C%20I'm%20Wngtn&fontSize=50&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Enthusiast&descSize=18&descAlignY=58)
+# Hi, I'm Wngtn
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7B42BC&center=true&vCenter=true&width=600&lines=Automating+infrastructure%2C+one+commit+at+a+time;Building+a+Cloud-Based+AI+Agent+for+Network+Monitoring;AWS+%7C+Terraform+%7C+Prometheus+%7C+FastAPI;Making+infra+actually+talk+back" />
-
-</div>
 
 ---
 
