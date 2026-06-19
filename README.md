@@ -1,6 +1,5 @@
 # Hi, I'm Wngtn
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7B42BC&center=true&vCenter=true&width=600&lines=Automating+infrastructure%2C+one+commit+at+a+time;Building+a+Cloud-Based+AI+Agent+for+Network+Monitoring;AWS+%7C+Terraform+%7C+Prometheus+%7C+FastAPI;Making+infra+actually+talk+back" />
 
 ---
 
@@ -25,17 +24,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wngtn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Wngtn&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wngtn&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<sub>💡 Commit private chỉ hiển thị nếu email commit trùng email gắn trên GitHub — <a href="https://github.com/settings/emails">kiểm tra tại đây</a>.</sub>
-</p>
+
 
 ---
 
