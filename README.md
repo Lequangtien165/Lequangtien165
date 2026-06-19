@@ -16,14 +16,6 @@
 📡 Into IaC, observability, and turning raw infra noise into signal
 🌱 Currently exploring: LLM-powered ops agents & cost-aware cloud architecture
 
-```mermaid
-graph LR
-    A[Network Devices] -->|Metrics| B[Prometheus]
-    B -->|Scrape & Alert| C[FastAPI + Celery]
-    C -->|Analyze| D[Gemini AI Agent]
-    D -->|Notify| E[Slack / Email]
-```
-
 ---
 
 ### 🧰 Tech Stack
@@ -34,42 +26,19 @@ graph LR
 
 ---
 
-### 📌 Pinned Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[☁️ Cloud-Based AI Agent System](https://github.com/Benjaminnhnn/Cloud-Based-AI-Agent-System-for-Network-Incident-Detection-Alerting)**
-
-Network incident detection & alerting on AWS — Capstone project.
-
-`Python` `FastAPI` `Celery` `AWS` `Terraform` `Ansible` `Prometheus` `Gemini`
-
-</td>
-<td width="50%" valign="top">
-
-**[📚 BookVN](https://github.com/Lequangtien165)**
-
-Android reading app with Firebase Auth & social features.
-
-`Java` `Android` `Firebase`
-
-</td>
-</tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wngtn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wngtn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Wngtn&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wngtn&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<sub>💡 Commit private chỉ hiển thị nếu email commit trùng email gắn trên GitHub — <a href="https://github.com/settings/emails">kiểm tra tại đây</a>.</sub>
 </p>
 
 ---
