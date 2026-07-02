@@ -12,6 +12,7 @@ Currently building a cloud-based AI agent system for network incident detection 
 I enjoy working with infrastructure as code and observability — basically turning messy logs and metrics into something actually useful.
 
 Right now I'm digging deeper into LLM-powered ops agents and cost-aware cloud architecture.
+
 ---
 
 ### 🧰 Tech Stack
