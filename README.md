@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Wngtn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Lequangtien165&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Wngtn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
