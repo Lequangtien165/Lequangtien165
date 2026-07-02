@@ -5,12 +5,13 @@
 
 ### 👋 About me
 
-🎓 Junior at **VNUHCM-UIT** — Computer Networks & Communications
-🚀 Building a **Cloud-Based AI Agent System** for network incident detection & alerting
-🛠️ Working with `AWS` · `Terraform` · `Prometheus` · `FastAPI` · `Gemini`
-📡 Into IaC, observability, and turning raw infra noise into signal
-🌱 Currently exploring: LLM-powered ops agents & cost-aware cloud architecture
+Junior studying Computer Networks & Communications at VNUHCM-UIT.
 
+Currently building a cloud-based AI agent system for network incident detection and alerting, using AWS, Terraform, Prometheus, FastAPI, and Gemini.
+
+I enjoy working with infrastructure as code and observability — basically turning messy logs and metrics into something actually useful.
+
+Right now I'm digging deeper into LLM-powered ops agents and cost-aware cloud architecture.
 ---
 
 ### 🧰 Tech Stack
