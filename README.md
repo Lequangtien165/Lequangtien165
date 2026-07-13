@@ -1,17 +1,13 @@
-# Hi, I'm Wngtn
+# Hi, I'm Quang Tien
 
 
 ---
 
-### 👋 About me
+### About:
 
-Junior studying Computer Networks & Communications at VNUHCM-UIT.
-
-Currently building a cloud-based AI agent system for network incident detection and alerting, using AWS, Terraform, Prometheus, FastAPI, and Gemini.
-
-I enjoy working with infrastructure as code and observability — basically turning messy logs and metrics into something actually useful.
-
-Right now I'm digging deeper into LLM-powered ops agents and cost-aware cloud architecture.
+DevOps/Cloud enthusiast from Ho Chi Minh City, interested in cloud infrastructure, Kubernetes, automation, and AI-assisted operations. 
+I build practical projects with AWS, Terraform, CI/CD, monitoring, and incident detection to better understand how real systems are deployed, observed, and improved. 
+Still early in my journey, I value clear engineering, practical problem-solving, and continuous learning through hands-on work.
 
 ---
 
