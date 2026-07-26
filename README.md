@@ -37,6 +37,4 @@ Still early in my journey, I value clear engineering, practical problem-solving,
 <a href="https://github.com/Wngtn"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:qtienle16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E6522C,50:7B42BC,100:232F3E&height=100&section=footer)
-
 </div>
