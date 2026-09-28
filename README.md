@@ -13,33 +13,41 @@ Still early in my journey, I value clear engineering, practical problem-solving,
 
 ### 🧰 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="right"><b>☁️ Cloud & IaC</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>🚀 CI/CD & Container</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>📊 Monitoring</b></td>
-    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>⚙️ Backend & Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,fastapi,java,redis,postgres" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>🐧 Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,bash,git,nginx" /></td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <sub>Also used: Helm · Argo CD · Trivy · Celery · Mininet/Ryu</sub>
-</p>
+**☁️ Cloud & IaC**<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
 
+**🚀 CI/CD & Containers**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
+
+**📊 Monitoring**<br>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+
+**⚙️ Backend & Data**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+**🐧 Tools**<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+
+</div>
 ---
 
 ### 📊 GitHub Stats
