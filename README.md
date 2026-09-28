@@ -10,11 +10,10 @@ I build practical projects with AWS, Terraform, CI/CD, monitoring, and incident 
 Still early in my journey, I value clear engineering, practical problem-solving, and continuous learning through hands-on work.
 
 ---
-
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,prometheus,grafana,python,fastapi,jenkins,linux,git" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes,docker,jenkins,githubactions,prometheus,grafana,python,fastapi,java,maven,redis,postgres,react,nginx,linux,git" />
 </p>
 
 ---
