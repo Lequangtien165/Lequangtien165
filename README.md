@@ -10,10 +10,34 @@ I build practical projects with AWS, Terraform, CI/CD, monitoring, and incident 
 Still early in my journey, I value clear engineering, practical problem-solving, and continuous learning through hands-on work.
 
 ---
+
 ### 🧰 Tech Stack
 
+<table align="center">
+  <tr>
+    <td align="right"><b>☁️ Cloud & IaC</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🚀 CI/CD & Container</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>📊 Monitoring</b></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ Backend & Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,fastapi,java,redis,postgres" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🐧 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,bash,git,nginx" /></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes,docker,jenkins,githubactions,prometheus,grafana,python,fastapi,java,maven,redis,postgres,react,nginx,linux,git" />
+  <sub>Also used: Helm · Argo CD · Trivy · Celery · Mininet/Ryu</sub>
 </p>
 
 ---
